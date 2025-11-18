@@ -1,7 +1,8 @@
 <h1>Senzo Stofile - Digital Portfolio</h1>
 <h2>Multimedia Applications Student, Aspiring Editor and Digital Marketer</h2>
 <h2>What I Do</h2>
-Multimedia Applications student and an aspiring Digital Marketer with a passion for creativity, storytelling, and strategic communication. I enjoy blending design, technology, and marketing to create engaging digital experiences.
+Multimedia Applications student and an aspiring Videographer and Multimedia Marekter with a passion for originality, creativity and ingenuity. 
+I enjoy video editing, technology, and marketing content to digital platforms.
 
 My interests and skills include:
 
