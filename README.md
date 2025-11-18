@@ -25,5 +25,22 @@ I enjoy exploring how to use design tools and social media platforms to connect 
 <h2>2. Brand Guide</h2>
 <a href= "https://github.com/SenzoCPUT/SenProductions-Brand-Guide">View SenProductions Brand Guide</a>
 
-3. Marketing Material
-View Bluth Company Marketing Material
+
+<h2>LinkedIn Learning Certificates</h2>
+Here are some of the LinkedIn Learning Certificates I have achieved.
+
+<li><a href= "https://github.com/SenzoCPUT/E-Portfolio-for-Senzo-
+  Stofile/blob/main/CertificateOfCompletion_Business%20Benefits%20Realization%20Foundations.pdf">Business Benefits Realization Foundations</a></li>
+
+<li><a href= "https://github.com/SenzoCPUT/E-Portfolio-for-Senzo-Stofile/blob/main/CertificateOfCompletion_Cert%20Prep%20Adobe%20Certified%20Associate%20%20Illustrator.pdf">Adobe Certified Associate Illustrator</a></li>
+
+<li><a href= "https://github.com/SenzoCPUT/E-Portfolio-for-Senzo-
+  Stofile/blob/main/CertificateOfCompletion_Cert%20Prep%20Adobe%20Certified%20Associate%20%20InDesign.pdf">Adobe Certified Associate InDesign</a></li>
+
+<li><a href= "https://github.com/SenzoCPUT/E-Portfolio-for-Senzo-Stofile/blob/main/CertificateOfCompletion_Cert%20Prep%20Adobe%20Certified%20Associate%20%20Photoshop%202019.pdf">Adobe Certified Associate Photoshop 2019</a></li>
+
+<li><a href= "https://github.com/SenzoCPUT/E-Portfolio-for-Senzo-
+  Stofile/blob/main/CertificateOfCompletion_LoFi%20to%20HiFi%20Prototyping%20in%20Figma.pdf">LoFi to HiFi Prototyping in Figma</a></li>
+  
+
+More avilable on request.
