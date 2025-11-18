@@ -35,3 +35,10 @@ Here are some of the LinkedIn Learning Certificates I have achieved.
 <li><a href= "https://github.com/SenzoCPUT/E-Portfolio-for-Senzo-
   Stofile/blob/main/CertificateOfCompletion_LoFi%20to%20HiFi%20Prototyping%20in%20Figma.pdf">LoFi to HiFi Prototyping in Figma</a></li>
 More avilable on request.
+
+<h2>🗣️ Business Communication</h2>
+<h3>Evidence</h3>
+
+
+<h2>🎥 Mock Interview</h2>
+<h3>Evidence</h3>
