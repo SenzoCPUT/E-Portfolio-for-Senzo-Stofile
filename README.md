@@ -1,10 +1,10 @@
 <h1>Senzo Stofile - Digital Portfolio</h1>
 <h2>Multimedia Applications Student, Aspiring Editor and Digital Marketer</h2>
 <h2>What I Do</h2>
-Multimedia Applications student and an aspiring Videographer and Multimedia Marekter with a passion for originality, creativity and ingenuity. 
-I enjoy video editing, technology, and marketing content to digital platforms.
+<p>Multimedia Applications student and an aspiring Videographer and Multimedia Marekter with a passion for originality, creativity and ingenuity. 
+I enjoy video editing, technology, and marketing content to digital platforms.<p></p>
 
-My interests and skills include:
+<p1>My interests and skills include:</p1>
 
 <li>🎨 Multimedia Graphic Design</li>
 <li>📱 Social Media Integration</li>
@@ -34,6 +34,4 @@ Here are some of the LinkedIn Learning Certificates I have achieved.
 <li><a href= "https://github.com/SenzoCPUT/E-Portfolio-for-Senzo-Stofile/blob/main/CertificateOfCompletion_Cert%20Prep%20Adobe%20Certified%20Associate%20%20Photoshop%202019.pdf">Adobe Certified Associate Photoshop 2019</a></li>
 <li><a href= "https://github.com/SenzoCPUT/E-Portfolio-for-Senzo-
   Stofile/blob/main/CertificateOfCompletion_LoFi%20to%20HiFi%20Prototyping%20in%20Figma.pdf">LoFi to HiFi Prototyping in Figma</a></li>
-  
-
 More avilable on request.
