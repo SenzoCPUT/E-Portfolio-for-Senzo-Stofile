@@ -6,13 +6,10 @@ I enjoy video editing, technology, and marketing content to digital platforms.
 
 My interests and skills include:
 
-.🎨 Multimedia Graphic Design
-
-.📱 Social Media Integration
-
-.💻 Content Creation (Video Editing & Promo)
-
-.📊 Branding & Digital Campaigns
+<li>🎨 Multimedia Graphic Design</li>
+<li>📱 Social Media Integration</li>
+<li>💻 Content Creation (Video Editing & Promo)</li>
+<li>📊 Branding & Digital Campaigns</li>
 
 
 I enjoy exploring how to use design tools and social media platforms to connect with audiences, drive meaningful engagement online, and build brand identity.
@@ -31,14 +28,10 @@ Here are some of the LinkedIn Learning Certificates I have achieved.
 
 <li><a href= "https://github.com/SenzoCPUT/E-Portfolio-for-Senzo-
   Stofile/blob/main/CertificateOfCompletion_Business%20Benefits%20Realization%20Foundations.pdf">Business Benefits Realization Foundations</a></li>
-
 <li><a href= "https://github.com/SenzoCPUT/E-Portfolio-for-Senzo-Stofile/blob/main/CertificateOfCompletion_Cert%20Prep%20Adobe%20Certified%20Associate%20%20Illustrator.pdf">Adobe Certified Associate Illustrator</a></li>
-
 <li><a href= "https://github.com/SenzoCPUT/E-Portfolio-for-Senzo-
   Stofile/blob/main/CertificateOfCompletion_Cert%20Prep%20Adobe%20Certified%20Associate%20%20InDesign.pdf">Adobe Certified Associate InDesign</a></li>
-
 <li><a href= "https://github.com/SenzoCPUT/E-Portfolio-for-Senzo-Stofile/blob/main/CertificateOfCompletion_Cert%20Prep%20Adobe%20Certified%20Associate%20%20Photoshop%202019.pdf">Adobe Certified Associate Photoshop 2019</a></li>
-
 <li><a href= "https://github.com/SenzoCPUT/E-Portfolio-for-Senzo-
   Stofile/blob/main/CertificateOfCompletion_LoFi%20to%20HiFi%20Prototyping%20in%20Figma.pdf">LoFi to HiFi Prototyping in Figma</a></li>
   
